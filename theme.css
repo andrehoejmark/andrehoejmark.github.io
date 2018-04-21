@@ -25,4 +25,6 @@ body {background-color: #FFFAF0;}
 	}
 	#top { top: 0; }
 	#bottom { bottom: 0; }
+
+a { text-decoration: underline; }
 	
